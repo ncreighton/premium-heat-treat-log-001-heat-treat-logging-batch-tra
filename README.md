@@ -1,0 +1,2 @@
+# premium-heat-treat-log-001-heat-treat-logging-batch-tra
+Stop losing critical heat treat data in scattered notebooks or spreadsheets. If you're a craft blacksmith or knife maker, every batch's time, temperature, and quench method is the difference between a blade that fails and one that lasts a lifetime.  Heat Treat Logging &amp; Batch Track Craft Hub is a Notion template that eliminates guesswork and lost r
